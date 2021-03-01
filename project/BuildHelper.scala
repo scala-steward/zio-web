@@ -9,7 +9,7 @@ import BuildInfoKeys._
 object BuildHelper {
 
   val zioVersion        = "1.0.4-2"
-  val zioLoggingVersion = "0.5.4"
+  val zioLoggingVersion = "0.5.7"
   val zioSchemaVersion  = "0.0.1"
   val zioJsonVersion    = "0.1"
   val zioNioVersion     = "1.0.0-RC10"
